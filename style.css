@@ -1,0 +1,22 @@
+h1 {
+    display: block;
+    margin-left: 200px;
+}
+b {
+    font-size: 1.1em;
+    font-family: 'Times New Roman', Times, serif;
+}
+img {
+    width: 50%;
+    height: auto;
+    display: flex;
+    margin-left: 350px;
+}
+p {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+h3 {
+    margin-left: 200px;
+    margin-right: 200px;
+}
